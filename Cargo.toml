@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.69"
-crossterm = "0.26.0"
+crossterm = "0.26.1"
 dunce = "1.0.3"
 human-repr = "1.0.1"
 inquire = "0.5.3"
