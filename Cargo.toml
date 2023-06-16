@@ -9,7 +9,7 @@ edition = "2021"
 anyhow = "1.0.69"
 crossterm = "0.26.0"
 dunce = "1.0.3"
-human-repr = "1.0.1"
+human-repr = "1.1.0"
 inquire = "0.5.3"
 pathdiff = "0.2.1"
 serde = { version = "1.0.152", features = ["derive"] }
